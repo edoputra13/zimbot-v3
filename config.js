@@ -37,14 +37,14 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
-global.ownername = 'DRIPS'
-global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
-global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'ZIM BOT INC'
-global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
+global.owner = ['6288213312211','']
+global.premium = ['6288213312211','918188019676']
+global.botname = 'DYTOPIA Inc'
+global.ownername = 'EDO'
+global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAA1A'
+global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxNWwSWoA'
+global.packname = '2022 E'
+global.ytchannel = 'https://youtu.be/ww4z2muORU'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -79,12 +79,12 @@ global.mess = {
     group: '*this feature is only for groups okay*',
     private: '*this feature can only used in dm okay*',
     bot: '*Special Features for User Bot Number okay*',
-    wait: '*whoa wait zim bot processing okay*',
+    wait: '*whoa wait bot processing okay*',
     endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 25
+    free: 55
 }
    global.rpg = {
    darahawal: 100,
